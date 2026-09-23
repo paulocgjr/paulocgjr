@@ -54,10 +54,6 @@ Sou Engenheiro Mecatrônico com mais de 15 anos de experiência em manutenção 
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paulocgjr&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocgjr&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulocgjr&theme=tokyonight&hide_border=true" />
