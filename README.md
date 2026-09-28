@@ -65,7 +65,7 @@ Sou Engenheiro Mecatrônico com mais de 15 anos de experiência em manutenção 
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🔁 Previsão de Churn | Modelo de classificação para prever cancelamento de clientes, com tratamento de dataset desbalanceado (upsampling) — F1-score de 0.616 | `Python` `Scikit-learn` `Random Forest` |
+| [🔁 Previsão de Churn](https://github.com/paulocgjr/tt_churn.git) | Modelo de classificação para prever cancelamento de clientes, com tratamento de dataset desbalanceado (upsampling) — F1-score de 0.616 | `Python` `Scikit-learn` `Random Forest` |
 | 📈 Análise Exploratória | Projeto de EDA e testes de hipótese sobre comportamento de usuários | `Python` `Pandas` `Testes de Hipótese` |
 | 🗃️ Coleta de Dados via SQL/API | Extração e tratamento de dados de fontes online | `SQL` `API` `JSON` |
 | 🧠 Redes Neurais _(em breve)_ | Projeto do módulo de deep learning do bootcamp | `TensorFlow/Keras` |
